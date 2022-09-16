@@ -102,7 +102,7 @@ Console.WriteLine();*/
 /*Console.Clear();
 Console.Write("Введите количество строк m:  ");
 int m = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите количество  n:  ");
+Console.Write("Введите количество столбцов n:  ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 int[,] numbers = new int[m, n];
